@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Messenger",
+  "description": "A feature-rich WhatsApp clone with integrated Gemini AI for smart conversations, featuring a sleek dark-themed UI and real-time chat simulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
